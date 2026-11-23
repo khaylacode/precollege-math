@@ -22,7 +22,7 @@
 ### Arithmetic Course Modules - GOAL: Test Out
 - [ ] Class 38: The Final Exam - https://youtu.be/Af-MqCJGZww
 
-##Pre-Algebra Course Modules - GOAL: Test Out
+### Pre-Algebra Course Modules - GOAL: Test Out
 - [ ] Class 27: The Final Test - https://youtu.be/tz0VX_QfFxI
 
 
