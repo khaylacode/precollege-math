@@ -12,12 +12,12 @@
 </div>
 
 ## My Overall Program Progress
-- [] Arithmetic  
-- [] Pre-Algebra
-- [] Algebra 1
-- [] Algebra 2
-- [] Trigonometry
-- [] Pre-Calculus
+- [ ] Arithmetic  
+- [ ] Pre-Algebra
+- [ ] Algebra 1
+- [ ] Algebra 2
+- [ ] Trigonometry
+- [ ] Pre-Calculus
 
 ### Arithmetic Course Modules - GOAL: Test Out
 - [ ] Class 38: The Final Exam - https://youtu.be/Af-MqCJGZww
